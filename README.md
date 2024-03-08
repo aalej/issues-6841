@@ -2,12 +2,12 @@
 
 # Versions
 
-`platform`: macOS 14.3.1<br>
-`firebase-tools`: v13.4.1<br>
-`python`: v3.12<br>
-`google-cloud-datastore`: v2.19.0<br>
-`cloud-firestore-emulator`: v1.19.2<br>
-`Google Cloud SDK` 467.0.0
+platform: macOS 14.3.1<br>
+firebase-tools: v13.4.1<br>
+python: v3.12<br>
+google-cloud-datastore: v2.19.0<br>
+cloud-firestore-emulator: v1.19.2<br>
+Google Cloud SDK: 467.0.0
 
 ## Steps to reproduce
 
